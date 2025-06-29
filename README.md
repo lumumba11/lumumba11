@@ -66,4 +66,18 @@ My focus areas are **data science**, **cybersecurity**, and **software developme
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ghostpacket254)  
 
 ---
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lumumba11&show_icons=true&theme=radical" alt="Alex Lumumba's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumumba11&layout=compact&theme=radical" alt="Top languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lumumba11&theme=radical" alt="GitHub streak" />
+</p>
+---
+
 _“Security and insight are the foundation of tomorrow’s innovation.”_

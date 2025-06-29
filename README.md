@@ -1,34 +1,69 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lumumba Alex
-====================================================================================================================================
+# 👨‍💻 Alex Lumumba
 
-Data Analyst
-------------
+**Data Analyst | Cybersecurity Enthusiast | Python Developer | BSc. Informatics Student at Moi University**
 
-I am a dedicated and enthusiastic student currently pursuing a Bachelor of Science in Informatics at Moi University. Throughout my academic journey, I have developed a strong foundation in programming and data science, 
-with a particular focus on Python. Academic and Technical Skills: - Programming Proficiency: I have gained extensive experience in Python, where I have written efficient, 
-clean code to solve a variety of problems. My coursework and projects have honed my skills in algorithm design, data structures, and software development. - Data Science Expertise: My studies have provided me with a solid grounding in data science. I am proficient in data analysis, data visualization, and statistical modeling. I have worked with tools and libraries such as Pandas, NumPy, Matplotlib, and Scikit-learn to manipulate and interpret data. - Technical Tools: I am skilled in using version control systems like Git, which I utilize to manage code and collaborate on projects. I have a working knowledge of basic database management systems, including SQL, and I am familiar with software development methodologies and best practices. Projects and Experience: - Data Analysis Projects: I have completed several projects where I collected, cleaned, and analyzed data to extract meaningful insights. These projects involved large data sets and required the use of advanced statistical techniques and data visualization tools. - Collaborative Work: I have worked on team projects where we developed software solutions to address specific problems. These experiences have strengthened my ability to collaborate effectively, communicate technical concepts clearly, and manage project timelines. Professional Goals: I am passionate about leveraging technology to solve real-world problems and improve efficiency across different industries. I am particularly interested in the fields of data science, artificial intelligence, and software development. My goal is to apply my technical skills and knowledge in a professional setting where I can contribute to innovative projects, continue learning, and grow my expertise in informatics and data science. Personal Attributes: - Analytical Thinking: I have a strong ability to analyze complex problems and break them down into manageable parts. This skill has been essential in both my academic work and my projects. - Continuous Learner: I am committed to continuous learning and staying updated with the latest advancements in technology and data science. I actively seek out new knowledge and strive to improve my skills. - Team Player: I work well in team settings, valuing collaboration and the diverse perspectives that come with it. I believe that great results are often achieved through collective effort and shared knowledge.
+---
 
-* 🌍  I'm based in kenya
-* ✉️  You can contact me at [lumummbaalex479@gmail.com](mailto:lumummbaalex479@gmail.com)
-* 🧠  I'm learning more about django and firebase frameworks
-* 🤝  I'm open to collaborating on on any python project in data analysis
+🎓 I’m a passionate and motivated Informatics student at Moi University, Kenya.  
+My focus areas are **data science**, **cybersecurity**, and **software development**, with hands-on experience in Python, data analysis, and ethical hacking tools. I’m always eager to learn, explore new technologies, and contribute to meaningful projects.
 
-### Skills
+---
 
+## 🧠 Technical Skills
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+- **Languages & Tools**: Python, SQL, Git, Bash, HTML
+- **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn
+- **Cybersecurity**: Linux security, Wireshark, Burp Suite, Metasploit, Parrot OS
+- **Web Development**: Django (learning), Firebase (learning)
+- **Concepts**: Data cleaning, visualization, penetration testing, scripting, secure coding
 
+---
 
-### Socials
+## 📊 Featured Projects
 
-<p align="left"> <a href="https://discord.com/users/Alex L" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/Lumumba Alex" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/lumumba11" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/@aleky.1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/@LAlex" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@lumumbaalex469" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+- 🔍 **Data Analysis Projects**  
+  Used Python libraries to clean, analyze, and visualize large datasets for actionable insights.
 
-### Badges
+- 🔐 **Cybersecurity Labs**  
+  Simulated penetration tests, configured Linux environments, and explored threat mitigation using open-source tools.
 
-<b>My GitHub Stats</b>
+- 🤝 **Team Collaborations**  
+  Worked on group software development projects, gaining skills in version control, agile development, and technical communication.
 
-<a href="http://www.github.com/lumumba11"><img src="https://github-readme-stats.vercel.app/api?username=lumumba11&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lumumba11's GitHub stats" /></a>
+---
 
-<a href="https://github.com/lumumba11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumumba11&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🌱 Currently Learning
+
+- Django and Firebase frameworks for secure web apps  
+- Advanced penetration testing and SIEM tools  
+- Open-source contribution strategies for Python-based tools
+
+---
+
+## 🎯 Goals
+
+- Contribute to real-world data-driven and cybersecurity projects  
+- Develop scalable, secure web applications  
+- Gain practical experience in both offensive and defensive security  
+- Build impactful tools that help others learn or solve problems efficiently
+
+---
+
+## 🤝 Let’s Connect
+
+- 📫 Email: [lumummbaalex479@gmail.com](mailto:lumummbaalex479@gmail.com)  
+- 🌍 Location: Kenya  
+- 💻 GitHub: [github.com/lumumba11](https://github.com/lumumba11)  
+- 💬 Open to Python-based collaborations — especially in data analysis and cybersecurity!
+
+---
+
+### 🔗 Social Media
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lumumba11)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Lumumba-Alex)  
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/packethunter254)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ghostpacket254)  
+
+---
+_“Security and insight are the foundation of tomorrow’s innovation.”_
